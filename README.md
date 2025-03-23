@@ -4,8 +4,11 @@ This is a basic calculator built using HTML, CSS, and JavaScripe It allows users
 🔗 Live Demo: https://js-calculator-psi-six.vercel.app/
 
 # 🛠 Built With
+
 ✅ HTML – Structure of the calculator
+
 ✅ CSS – Styling for a neat and simple look
+
 ✅ JavaScript – Logic for performing calculations
 
 *This is a static, functional calculator designed for quick and easy calculations! 🏆*
