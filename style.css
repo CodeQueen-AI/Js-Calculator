@@ -79,3 +79,44 @@ body{
     box-shadow: inset 5px 5px 8px #e60073,
     inset -5px -5px 8px #ff3399;
 }
+ @media (max-width: 768px) {
+    .container {
+        width: 80%;
+        height: auto;
+    }
+    .btns .row button {
+        width: 70px;
+        height: 35px;
+        font-size: 14px;
+    }
+    .display #screen {
+        font-size: 28px;
+        height: 60px;
+    }
+}
+
+@media (max-width: 480px) {
+    .container {
+        width: 90%;
+    }
+    .btns .row button {
+        width: 65px;
+        height: 30px;
+        font-size: 13px;
+    }
+    .display #screen {
+        font-size: 25px;
+        height: 55px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
